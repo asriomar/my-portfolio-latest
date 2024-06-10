@@ -2,6 +2,11 @@
 import React from 'react';
 
 const projects = [
+    {
+    title: 'CRUD using JSONPlaceholder API',
+    description: 'User fetching data, edit and delete using JSONPlaceholder API ',
+    link: 'https://api-fetch-jsonplaceholder.vercel.app/',
+  },
   {
     title: 'Job to Do',
     description: 'Job-to-Do app. With task sorting by urgency and importance ',
