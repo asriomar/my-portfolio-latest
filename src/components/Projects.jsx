@@ -5,7 +5,7 @@ const projects = [
     {
     title: 'CRUD using JSONPlaceholder API',
     description: 'User fetching data, edit and delete using JSONPlaceholder API ',
-    link: 'https://api-fetch-jsonplaceholder.vercel.app/',
+    link: 'https://api-using-json-placeholder.vercel.app/',
   },
   {
     title: 'Job to Do',
