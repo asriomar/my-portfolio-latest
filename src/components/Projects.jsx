@@ -7,6 +7,11 @@ const projects = [
     description: 'User fetching data, edit and delete using JSONPlaceholder API ',
     link: 'https://api-using-json-placeholder.vercel.app/',
   },
+     {
+    title: 'Job to Do ',
+    description: 'Job-to-Do app (save at localStorage/browser). ',
+    link: 'https://to-do-localstorage-tailwind.vercel.app/',
+  },
   {
     title: 'Job to Do',
     description: 'Job-to-Do app. With task sorting by urgency and importance ',
