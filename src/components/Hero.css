@@ -1,7 +1,7 @@
 /* src/components/Hero.css */
 
 .hero-container {
-    background: url('https://images.pexels.com/photos/963278/pexels-photo-963278.jpeg') no-repeat center center/cover; /* Use a relevant background image or video */
+    background: url('https://images.pexels.com/photos/3745234/pexels-photo-3745234.jpeg') no-repeat center center/cover; /* Use a relevant background image or video */
     position: relative;
     overflow: hidden;
   }
