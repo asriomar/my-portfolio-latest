@@ -8,7 +8,7 @@ const Header = () => {
         <h1 className="text-xl text-gray-200 md:text-3xl font-extrabold cursor-pointer mb-2 md:mb-0 flex text-center ">
           &#123;
           <span className="">
-            md.dev
+            mo.asri
           </span>
           &#125;
         </h1>
