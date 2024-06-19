@@ -15,6 +15,7 @@ function App() {
   return (
     <div>
       <Header />
+       <hr className='border border-gray-800' />
       <Hero />
       <About />
       <Projects />
