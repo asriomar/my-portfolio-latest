@@ -143,7 +143,7 @@ const Contact = () => {
           Contact Me
         </h2>
         <p className="text-6xl text-center pb-4">...</p>
-        <div className="max-w-lg mx-auto bg-white p-8 rounded-lg shadow-lg">
+        <div className="max-w-lg mx-auto  p-8 rounded-lg shadow-lg bg-gradient-to-r from-indigo-300 via-blue-400 to-green-300 text-white">
           <form onSubmit={onSubmit}>
             <div className="mb-4">
               <label
