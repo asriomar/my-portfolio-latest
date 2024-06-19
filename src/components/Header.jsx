@@ -31,6 +31,12 @@ const Header = () => {
           >
             Get in touch
           </a>
+          <a
+            href="#resume"
+            className="text-gray-200 hover:text-indigo-300 transition-colors duration-300"
+          >
+            Resume
+          </a>
         </nav>
       </div>
     </header>
