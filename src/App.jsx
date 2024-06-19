@@ -7,6 +7,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import SocialMedia from './components/SocialMedia';
 import Footer from './components/Footer';
+import DocumentViewer from './components/DocumentViewer';
 
 const documentId = '1Kozn8dels6qSMemAwXgdL_QkYRpmhH2Xtpw60qVy_Zc';
 
