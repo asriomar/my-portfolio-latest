@@ -22,11 +22,9 @@ const About = () => {
           About Me
         </h2>
         <p className="text-lg md:text-xl text-center ">
-          Transitioning professionally, I'm a dedicated web developer committed
-          to crafting visually captivating and functional web applications. With a diverse background, I'm eager to
-          leverage my expertise in Web Development. Ready to embrace new
-          challenges, I bring valuable insights and a drive for excellence to
-          make a meaningful impact in my next role.
+          Transitioning professionally, I'm a dedicated web developer committed to crafting visually captivating and highly functional web applications. With a diverse and rich background, I am eager to leverage my expertise in Web Development and React to tackle new challenges. Bringing valuable insights and a relentless drive for excellence, I aim to make a significant impact in my next role.
+          <br/>
+          Below are my preferred tools that I have recently used:
         </p>
         <p className="text-6xl text-center pb-4">...</p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
