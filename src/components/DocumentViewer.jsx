@@ -10,7 +10,7 @@ const DocumentViewer = ({ documentUrl }) => {
   };
 
   return (
-    <div className="flex flex-col items-center p-4">
+    <div id="resume" className="flex flex-col items-center p-4">
 
         <h2 className="text-4xl font-bold text-center mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-blue-600 to-green-600">
           View My Resume
