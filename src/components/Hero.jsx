@@ -9,7 +9,7 @@ const Hero = () => {
         <h1 className="hero-title text-gray-200 text-3xl md:text-8xl font-bold mb-6">
           I'm{' '}
           <span className=" underline decoration-wavy decoration-red-600">
-            &#123;md.dev&#125;
+            &#123;mo.asri&#125;
           </span>
         </h1>
         <p className="hero-subtitle text-gray-200 text-md md:text-xl mb-8">
