@@ -21,7 +21,7 @@ const About = () => {
         <h2 className="text-4xl font-bold text-center mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-blue-600 to-green-600">
           About Me
         </h2>
-        <p className="text-lg md:text-xl text-center ">
+        <p className="text-md md:text-lg text-center ">
           Transitioning professionally, I'm a dedicated Web Developer committed to crafting visually captivating and 
           highly functional Web Applications. 
           With a diverse and rich background, I am eager to leverage my expertise in Web Development and React JS to tackle new challenges. 
