@@ -34,7 +34,7 @@ const About = () => {
           {skills.map((skill, index) => (
             <div
               key={index}
-              className="bg-white p-6 rounded-lg shadow-lg text-center bg-gradient-to-r from-indigo-300 via-blue-400 to-green-300 text-white"
+              className="bg-white p-6 rounded-lg shadow-lg text-center bg-gray-200 text-gray-600"
             >
               <h3 className="text-2xl font-bold mb-2">{skill.name}</h3>
               <p className="text-gray-600">{skill.level}</p>
