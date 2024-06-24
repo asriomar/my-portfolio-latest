@@ -96,7 +96,7 @@ const Projects = () => {
         <p className="text-6xl text-center pb-4">...</p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, index) => (
-            <div key={index} className="bg-white p-6 rounded-lg shadow-lg bg-gradient-to-r from-indigo-300 via-blue-400 to-green-300 text-white">
+            <div key={index} className="bg-gray-200 p-6 rounded-lg shadow-lg  text-gray-600">
               <h3 className="text-2xl font-bold mb-2">{project.title}</h3>
               <p className="text-gray-600 mb-4">{project.description}</p>
               <a
