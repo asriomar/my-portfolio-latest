@@ -1,15 +1,32 @@
-// src/components/Hero.js
-import React from 'react';
-import './Hero.css'; // Make sure to create and import a CSS file for additional styles
+import React, { useState, useEffect } from 'react';
+import './Hero.css'; // Ensure this file is created and imported for additional styles
 
 const Hero = () => {
+  const [text, setText] = useState('');
+  const fullText = '{ mo.asri}';
+  const typingSpeed = 150; // milliseconds
+
+  useEffect(() => {
+    let index = 0;
+    const interval = setInterval(() => {
+      if (index < fullText.length) {
+        setText((prev) => prev + fullText.charAt(index));
+        index++;
+      } else {
+        clearInterval(interval);
+      }
+    }, typingSpeed);
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <section className="hero-container flex flex-col items-center justify-center md:h-screen bg-black">
       <div className="hero-content px-10 py-7 rounded-lg text-center">
         <h1 className="hero-title text-gray-200 text-3xl md:text-8xl font-bold mb-6">
           I'm{' '}
-          <span className=" underline decoration-wavy decoration-red-600">
-            &#123;mo.asri&#125;
+          <span className="underline decoration-wavy decoration-red-600">
+            {text}
+            <span className="typing-cursor">|</span>
           </span>
         </h1>
         <p className="hero-subtitle text-gray-200 text-md md:text-xl mb-8">
