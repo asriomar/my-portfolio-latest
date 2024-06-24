@@ -32,7 +32,7 @@ const Hero = () => {
         <p className="hero-subtitle text-gray-200 text-md md:text-xl mb-8">
           Ready to embrace new challenges, bring valuable insights <br />
           and drive for excellence to make a meaningful impact{' '}
-          <span className="wave-emoji md:text-2xl">👋</span>
+          <span className="wave-emoji md:text-4xl">👋</span>
         </p>
         <a
           href="#projects"
