@@ -88,7 +88,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="bg-gray-100 text-gray-800 py-20 md:w-10/12 mx-auto">
+    <section id="projects" className="bg-gray-100 text-gray-800 py-20 md:w-10/12 md:mx-auto">
       <div className="container mx-auto px-24">
         <h2 className="text-3xl font-bold text-center pb-6 mb-4">
         <span className='text-5xl '>👨‍💻</span>  <br/> My Projects
