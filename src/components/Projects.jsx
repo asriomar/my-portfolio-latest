@@ -96,7 +96,7 @@ const Projects = () => {
         {/* <p className="text-6xl text-center pb-4">...</p> */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 text-center mx-auto">
           {projects.map((project, index) => (
-            <div key={index} className="ring-offset-2 ring-2 mx-4 bg-gray-200 p-4 rounded-lg shadow-lg  text-gray-800 duration-500 hover:bg-lime-100 hover:-translate-y-2 cursor-pointer hover:scale-105">
+            <div key={index} className="ring-offset-1 ring-1 mx-4 bg-gray-200 p-4 rounded-lg shadow-lg  text-gray-800 duration-500 hover:bg-lime-100 hover:-translate-y-2 cursor-pointer hover:scale-105">
                {project.photo && (
               <div className="mb-4 flex justify-center items-center">
                 {project.photo}
