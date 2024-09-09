@@ -32,7 +32,7 @@ const About = () => {
         <h2 className="text-3xl font-bold text-center mb-2 text-gray-700">
        <span className='text-5xl mb-4 '>🦸‍♂️</span>  <br/> About Me
         </h2>
-        <p className="md:text-md text-center mb-4">
+        <p className="md:text-md text-center mb-4 p-4">
         Driven by a commitment to excellence and a focus on delivering impactful solutions, I am eager to contribute meaningfully in my next role. Below are the tools and technologies I have recently utilized to create high-quality digital experiences.
         </p>
         {/* <p className="text-6xl text-center pb-4">...</p> */}
