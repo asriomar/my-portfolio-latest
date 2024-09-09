@@ -28,7 +28,7 @@ const skills = [
 const About = () => {
   return (
     <section id="about" className="bg-gray-200 text-gray-800 py-20 w-10/12 mx-auto">
-      <div className="container mx-auto px-24">
+      <div className="container mx-auto md:px-24">
         <h2 className="text-3xl font-bold text-center mb-2 text-gray-700">
        <span className='text-5xl mb-4 '>🦸‍♂️</span>  <br/> About Me
         </h2>
