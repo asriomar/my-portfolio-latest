@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="bg-black text-white py-4 shadow-lg">
       <div className="container mx-auto flex flex-col md:flex-row justify-around items-center px-4 md:px-0">
-        <h1 className=" text-xl md:text-3xl  text-gray-200 md:text-3xl font-extrabold cursor-pointer mb-4 md:mb-0 flex text-center ">
+        <h1 className=" text-xl md:text-3xl  text-red-500 md:text-3xl font-extrabold cursor-pointer mb-4 md:mb-0 flex text-center ">
           &#123;
           
             mo.asri
