@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Hero.css'; // Ensure this file is created and imported for additional styles
+//import './Hero.css'; // Ensure this file is created and imported for additional styles
 
 const Hero = () => {
   const [text, setText] = useState('');
