@@ -22,15 +22,13 @@ const Hero = () => {
           and drive for excellence to make a meaningful impact{' '}
           <span className="animate-ping duration-500 md:text-4xl">👋</span>
         </p>
-        {/* <a
+         <a
           href="#projects"
           className="hover:scale-125 hero-button bg-gradient-to-r from-indigo-800 via-purple-800 to-pink-800 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-full "
         >
           View My Projects
-        </a> */}
-        <a href="#projects" className="hover:scale-125 bg-blue-500 text-white py-3 px-6 rounded-full">
-    View My Projects
-</a>
+        </a> 
+        
       </div>
     </section>
   );
