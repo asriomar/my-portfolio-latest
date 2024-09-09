@@ -7,9 +7,9 @@ const Header = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-around items-center px-4 md:px-0">
         <h1 className=" text-xl md:text-3xl  text-gray-200 md:text-3xl font-extrabold cursor-pointer mb-4 md:mb-0 flex text-center ">
           &#123;
-          <span className="underline decoration-wavy decoration-red-500 underline-offset-4">
+          
             mo.asri
-          </span>
+         
           &#125;
         </h1>
         <nav className="flex gap-6 text-sm md:text-xl">
