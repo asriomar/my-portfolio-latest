@@ -5,7 +5,7 @@ const Header = () => {
     <header className="bg-black text-white py-4 shadow-lg">
       <div className="container mx-auto flex flex-col md:flex-row justify-around items-center px-4 md:px-0">
         <h1 className="text-xl md:text-3xl text-red-500 font-extrabold cursor-pointer mb-4 md:mb-0 flex text-center">
-          { mo.asri }
+          //mo.asri 
         </h1>
         <nav className="flex gap-6 text-sm md:text-xl">
           <a
