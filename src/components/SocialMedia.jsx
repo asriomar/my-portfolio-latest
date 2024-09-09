@@ -19,7 +19,7 @@ const socialLinks = [
 
 const SocialMedia = () => {
   return (
-    <section className="bg-gray-900 text-white py-2 mx-auto w-10/12">
+    <section className="bg-gray-900 text-white py-2 md:mx-auto md:w-10/12">
       <div className="container mx-auto text-center">
         <h2 className="text-2xl font-bold mb-3 ">Follow Me</h2>
         <div className="flex justify-center space-x-6">
