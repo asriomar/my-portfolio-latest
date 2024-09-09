@@ -23,11 +23,7 @@ const Hero = () => {
     <section className="hero-container flex flex-col items-center justify-center md:h-screen bg-black">
       <div className="hero-content px-10 py-7 rounded-lg text-center">
         <h1 className="hero-title text-gray-200 text-5xl md:text-8xl font-bold mb-6">
-          I'm{' '}
-          <span className="underline decoration-wavy decoration-red-600">
-            {text}
-            <span className="typing-cursor">|</span>
-          </span>
+          I'm mo.asri
         </h1>
         <p className="hero-subtitle text-gray-200 text-md md:text-xl mb-8">
           Ready to embrace new challenges, bring valuable insights <br />
