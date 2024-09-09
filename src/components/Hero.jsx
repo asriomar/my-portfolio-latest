@@ -25,7 +25,7 @@ const Hero = () => {
         <h1 className="hero-title text-gray-200 text-5xl md:text-8xl font-bold mb-6">
           I'm  
           &#123;
-          mo.asri
+          { mo.asri }
           &#125; 
          
           
