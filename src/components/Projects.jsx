@@ -88,7 +88,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="bg-gray-100 text-gray-800 py-20 w-10/12 mx-auto">
+    <section id="projects" className="bg-gray-100 text-gray-800 py-20 md:w-10/12 mx-auto">
       <div className="container mx-auto px-24">
         <h2 className="text-3xl font-bold text-center pb-6 mb-4">
         <span className='text-5xl '>👨‍💻</span>  <br/> My Projects
@@ -96,7 +96,7 @@ const Projects = () => {
         {/* <p className="text-6xl text-center pb-4">...</p> */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 text-center mx-auto">
           {projects.map((project, index) => (
-            <div key={index} className="bg-gray-200 p-4 rounded-lg shadow-lg  text-gray-800 duration-500 hover:bg-lime-100 hover:-translate-y-2 cursor-pointer hover:scale-105">
+            <div key={index} className="mx-4 bg-gray-200 p-4 rounded-lg shadow-lg  text-gray-800 duration-500 hover:bg-lime-100 hover:-translate-y-2 cursor-pointer hover:scale-105">
                {project.photo && (
               <div className="mb-4 flex justify-center items-center">
                 {project.photo}
