@@ -53,19 +53,19 @@ const projects = [
     
   },
   {
-    title: 'Job to Do',
+    title: 'Job Sorting',
     description: 'Sorting task by urgency and importance ',
     link: 'https://to-do-sort.vercel.app/',
   },
  
   {
     title: 'BMI Calculator',
-    description: 'Calculate BMI.',
+    description: 'Calculate your BMI.',
     link: 'https://bmi-calculator-ten-murex.vercel.app/',
   },
   {
     title: 'Paracetamol Calculator',
-    description: 'Calculate paracetamol dosage',
+    description: 'Calculate paracetamol dosage for your medicine',
     link: 'https://paracetamol-calculator.vercel.app/',
   },
     {
@@ -76,12 +76,12 @@ const projects = [
   
   {
     title: 'Color Picker',
-    description: 'Pick your color code.',
+    description: 'Pick your color code for CSS',
     link: 'https://color-picker-eta-cyan.vercel.app/',
   },
   {
     title: 'Skill & Expertise',
-    description: 'Skill and expertise.',
+    description: 'Skill and expertise',
     link: 'https://skill-expertise.vercel.app/',
   },
   {
