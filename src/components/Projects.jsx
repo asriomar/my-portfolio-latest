@@ -9,6 +9,11 @@ const projects = [
     link: 'https://weather-app-olive-nine-30.vercel.app/',
   },
     {
+    title: 'Character Counter',
+    description: 'Real-time character counter',
+    link: 'https://character-counter-jade.vercel.app/',
+  },
+    {
     title: 'CRUD',
     description: 'Fetching data, edit and delete ',
     link: 'https://api-using-json-placeholder.vercel.app/',
