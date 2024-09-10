@@ -35,6 +35,11 @@ const projects = [
     description: 'Sorting task by urgency and importance ',
     link: 'https://to-do-sort.vercel.app/',
   },
+   {
+    title: 'Search Image',
+    description: 'Image searcher',
+    link: 'https://image-search-jet-sigma.vercel.app/',
+  },
   {
     title: 'BMI Calculator',
     description: 'Calculate BMI.',
