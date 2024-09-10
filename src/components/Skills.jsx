@@ -10,7 +10,8 @@ import {
   SiBootstrap, 
   SiChakraui, 
   SiFigma, 
-  SiNextdotjs 
+  SiNextdotjs,
+  SiAngular
 } from 'react-icons/si'; // Simple Icons
 
 const skills = [
@@ -23,6 +24,7 @@ const skills = [
   { name: 'Chakra UI', level: 'Intermediate', icon: <SiChakraui className="text-4xl" /> },
   { name: 'Figma', level: 'Beginner', icon: <SiFigma className="text-4xl" /> },
   { name: 'Next.js', level: 'Beginner', icon: <SiNextdotjs className="text-4xl" /> },
+  { name: 'Angular', level: 'Beginner', icon: <SiAngular className="text-4xl" /> },
 ];
 
 const About = () => {
