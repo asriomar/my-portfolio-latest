@@ -13,10 +13,26 @@ const projects = [
     description: 'Real-time character counter',
     link: 'https://character-counter-jade.vercel.app/',
   },
+  
+     {
+    title: 'Portfolio Example',
+    description: 'Using React and Tailwind CSS ',
+    link: 'https://portfolio-react-kappa-ecru.vercel.app/',
+  },
      {
     title: 'Dark Mode Toggle',
     description: 'Toggle between two mode, dark and light ',
     link: 'https://dark-mode-toggle-delta.vercel.app/',
+  },
+    {
+    title: 'IT Quiz',
+    description: 'Test your IT literacy.',
+    link: 'https://react-quiz-app-psi-six.vercel.app/',
+  },
+   {
+    title: 'Profile Statistics',
+    description: 'Profile statistics for portfolio website',
+    link: 'https://profile-statistics-peach.vercel.app/',
   },
     {
     title: 'CRUD',
@@ -24,15 +40,11 @@ const projects = [
     link: 'https://api-using-json-placeholder.vercel.app/',
   },
   {
-    title: 'IT Quiz',
-    description: 'Test your IT literacy.',
-    link: 'https://react-quiz-app-psi-six.vercel.app/',
+    title: 'Search Image',
+    description: 'Image searcher',
+    link: 'https://image-search-jet-sigma.vercel.app/',
   },
-  {
-    title: 'Profile Statistics',
-    description: 'Profile statistics for portfolio website',
-    link: 'https://profile-statistics-peach.vercel.app/',
-  },
+ 
 
      {
     title: 'Job to Do ',
@@ -45,11 +57,7 @@ const projects = [
     description: 'Sorting task by urgency and importance ',
     link: 'https://to-do-sort.vercel.app/',
   },
-   {
-    title: 'Search Image',
-    description: 'Image searcher',
-    link: 'https://image-search-jet-sigma.vercel.app/',
-  },
+ 
   {
     title: 'BMI Calculator',
     description: 'Calculate BMI.',
