@@ -10,7 +10,7 @@ const Hero = () => {
       style={{ backgroundImage: `url(${backgroundImageUrl})` }}
     >
       <div className="hero-content px-10 py-7 rounded-lg text-center  ">
-        <img className='ring-offset-2 ring-2 w-[168px] h-[168px]  md:w-[210px] md:h-[210px] hover:scale-105 cursor-pointer rounded-full mx-auto' src="profile-img.jpeg" alt="" />
+        <img className='ring-offset-2 ring-2 w-[148px] h-[148px]  md:w-[210px] md:h-[210px] hover:scale-105 cursor-pointer rounded-full mx-auto' src="profile-img.jpeg" alt="" />
         <h1 className="hero-title text-indigo-300 text-5xl md:text-8xl font-bold mb-6">
           I'm
           &#123;
