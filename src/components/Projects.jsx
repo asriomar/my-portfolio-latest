@@ -50,9 +50,12 @@ const projects = [
     description: 'Calculate paracetamol dosage',
     link: 'https://paracetamol-calculator.vercel.app/',
   },
+    {
+    title: 'Movie Popup',
+    description: 'Play the movie in popup',
+    link: 'https://movie-popup.vercel.app/',
+  },
   
- 
-
   {
     title: 'Color Picker',
     description: 'Pick your color code.',
