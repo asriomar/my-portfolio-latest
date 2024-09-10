@@ -13,6 +13,11 @@ const projects = [
     description: 'Real-time character counter',
     link: 'https://character-counter-jade.vercel.app/',
   },
+     {
+    title: 'Dark Mode Toggle',
+    description: 'Toggle between two mode, dark and light ',
+    link: 'https://dark-mode-toggle-delta.vercel.app/',
+  },
     {
     title: 'CRUD',
     description: 'Fetching data, edit and delete ',
