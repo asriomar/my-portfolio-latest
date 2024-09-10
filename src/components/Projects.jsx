@@ -41,7 +41,7 @@ const projects = [
   },
   {
     title: 'Search Image',
-    description: 'Image searcher',
+    description: 'Image searcher using Unsplash API',
     link: 'https://image-search-jet-sigma.vercel.app/',
   },
  
